@@ -1,0 +1,44 @@
+Created a Interactive dashboard based on following question and provided the insights and report.
+Question 1 : 
+        The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. 
+        The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
+
+Ans :   For the CEO's query on 2011 revenue trends, I began by loading and cleaning the data to ensure accuracy. Analyzing monthly revenue trends reveals interesting seasonal patterns. 
+        These trends are crucial for forecasting next year's revenue, aligning our inventory, and optimizing marketing strategies.   
+
+Question 2 : 
+        The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated.
+        The CMO does not want to have the United Kingdom in this visual.
+
+Ans :   Moving to the CMO's interest, I identified the top 10 revenue-generating countries, excluding the UK. 
+        This visual not only shows revenue but also highlights quantity sold, providing a comprehensive view of our international performance."
+
+Question 3 :
+        The CMO of the online retail store wants to view the information on the top 10 customers by revenue. 
+        He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. 
+        The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
+
+Ans :   To address the CMO's focus on top customers, I visualized the highest revenue-generating customers sequentially. 
+        This helps prioritize customer satisfaction efforts and ensures our key accounts remain engaged and supported.
+
+Question 4 :
+        The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. 
+        Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. 
+        He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. 
+        There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
+
+Ans :   For the CEO's final query on regional demand, I analyzed demand across all countries, emphasizing regions with significant growth potential. This view supports strategic decisions on market expansion, 
+        targeting areas where demand is high and opportunities abound.
+
+Conclusion : In conclusion, these visualizations provide actionable insights into revenue trends, customer behavior, and market opportunities. By leveraging these insights, we can drive growth, enhance customer satisfaction, 
+              and strategically expand our market presence
+
+Visuals Used:
+Time series plot of monthly revenue for 2011.
+Bar chart showing top 10 revenue-generating countries (excluding UK) with revenue and quantity sold.
+Sequential bar chart of top 10 customers by revenue.
+Heatmap or map visualization highlighting regions with high product demand.
+This structured approach ensures that the presentation is clear, addresses each question thoroughly, and provides actionable insights relevant to the CEO's and CMO's strategic interests.
+
+
+
