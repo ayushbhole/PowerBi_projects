@@ -44,4 +44,9 @@ The dashboard is created using Power BI Desktop.
 ## Contact
 For any questions or suggestions, feel free to open an issue or reach out via GitHub.
 
+How to Use the Dashboard
+ - Open the .pbix file in Power BI Desktop.
+ - Interact with filters, slicers, and charts to analyze restaurant trends.
+ - Gain insights into sales performance, customer behavior, and restaurant operations.
+ - Export or share reports via Power BI Service.
 
